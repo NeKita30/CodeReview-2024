@@ -41,6 +41,7 @@
 Пример того, как будут выглядеть сданные задачи добавлен в папку ```1contest```.
 
 > [базовые требования к коду](https://docs.google.com/document/d/1-Cpe10CgwtGOnJWHjpTmapCMTR59CGe-AfKlDOMR5fo)
+
 > [кодстайл курса](https://docs.google.com/document/d/1HmFPnUPKfx8fXtU_rNm0lWzMwo7zr7RdCfAHbAMedjo).
 
 :sparkles:Всем удачи!:sparkles:
